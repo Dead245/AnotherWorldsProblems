@@ -1,0 +1,150 @@
+{
+  "WaterTint": "#19d99c",
+  "SpawnDensity": 0.5,
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "VoidScarred_Rain",
+        "Weight": 100
+      }
+    ]
+  }
+}

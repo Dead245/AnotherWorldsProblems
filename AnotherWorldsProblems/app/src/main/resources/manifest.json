@@ -1,0 +1,24 @@
+{
+  "Group": "DeadWolf",
+  "Name": "AnotherWorldsProblems",
+  "Version": "1.0.1",
+  "Description": "Testing combining cutscenes and world gen modification",
+  "Authors": [
+    {
+      "Name": "DeadWolf",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {
+    "Hytale:NPC": "*"
+  },
+  "OptionalDependencies": {},
+  "ServerVersion": "2026.03.26-89796e57b",
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": [],
+  "Main": "deadwolf.MainClass"
+}

@@ -1,0 +1,65 @@
+{
+  "TranslationProperties": {
+    "Name": "BossTriggerBox",
+    "Description": ""
+  },
+  "Icon": "Icons/ItemsGenerated/Teleporter.png",
+  "Categories": [
+    "Blocks.Structural"
+  ],
+  "MaxStack": 10,
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "Material": "Empty",
+    "DrawType": "Empty",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Miscellaneous/Teleporter_Pad_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "Flags": {
+      "IsUsable": false
+    },
+    "BlockParticleSetId": "Crystal",
+    "BlockSoundSetId": "Crystal",
+    "ParticleColor": "#4e534c",
+    "VariantRotation": "NESW",
+    "HitboxType": "BigTriggerBox",
+    "Interactions": {
+      "CollisionEnter": {
+        "Interactions": [
+          {
+            "Type": "TriggerScene"
+          }
+        ]
+      }
+    },
+    "CubeShadingMode": "Flat",
+    "Opacity": "Transparent",
+    "BlockEntity": {
+      "Components": {
+        "TriggerData": {
+          "TrackID": "intro",
+          "Track ID": "boss"
+        }
+      }
+    },
+    "IgnoreSupportWhenPlaced": true
+  },
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      22.5,
+      45.0,
+      22.5
+    ],
+    "Translation": [
+      3.0,
+      -42.0
+    ]
+  },
+  "ItemLevel": 30,
+  "Quality": "Legendary",
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}

@@ -1,0 +1,56 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "Plains",
+      "Min": -1,
+      "Max": 0.25
+    },
+    {
+      "Biome": "VoidScarred",
+      "Min": 9,
+      "Max": 9
+    },
+    {
+      "Biome": "Mountains",
+      "Min": 0.25,
+      "Max": 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 128,
+  "MaxBiomeEdgeDistance": 128,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map-Custom"
+  },
+  "Framework": [
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 100
+        },
+        {
+          "Name": "Water",
+          "Value": 100
+        },
+        {
+          "Name": "Bedrock",
+          "Value": 0
+        }
+      ]
+    }
+  ],
+  "SpawnPositions": {
+    "Type": "List",
+    "Positions": [
+      {
+        "X": -18,
+        "Z": 14,
+        "Y": 120
+      }
+    ]
+  }
+}

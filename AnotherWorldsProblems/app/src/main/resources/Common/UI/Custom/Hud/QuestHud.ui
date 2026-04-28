@@ -1,0 +1,15 @@
+Group #QuestPanel {
+  LayoutMode: Top;
+  Background: (Color: #2a3955);
+  Anchor: (Width: 250, Height: 50, Right: 0, Top: 10);
+  Label #QuestTitle {
+    Text: "Text";
+    Padding: (Left: 5, Top: 5);
+    Style: (FontSize: 16, RenderBold: true, TextColor: #ffffff);
+  }
+  Label #QuestText {
+    Text: "Text";
+    Padding: (Left: 15, Bottom: 5);
+    Style: (FontSize: 13, TextColor: #b1b1b1);
+  }
+}
